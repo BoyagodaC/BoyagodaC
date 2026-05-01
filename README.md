@@ -19,7 +19,7 @@
 ---
 
 ```python
-class YOUR_NAME:
+class Callum:
     def __init__(self):
         self.pronouns        = "he/him"
         self.location        = "New Jersey, USA"
@@ -46,7 +46,7 @@ class YOUR_NAME:
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=BoyagodaC&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)](https://git.io/streak-stats)
 
 </div>
 
@@ -58,7 +58,7 @@ class YOUR_NAME:
 
 > *Snake eats commits. The longer the snake, the more I've shipped.*
 
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/BoyagodaC/BoyagodaC/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -76,7 +76,7 @@ class YOUR_NAME:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=BoyagodaC&theme=darkhub&no-frame=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
