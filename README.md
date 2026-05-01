@@ -1,22 +1,89 @@
-<h1 align="center">Hi, I'm Callum! 👨‍💻</h1>
-<h3 align="center">I'm a passionate fullstack developer & Creator from the UK, living and working in the US.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=boyagodac&label=Profile%20views&color=0e75b6&style=flat" alt="boyagodac" /> </p>
+```
+╔═══════════════════════════════════════════════════════╗
+║   Initialising profile...  ████████████████████  100% ║
+╚═══════════════════════════════════════════════════════╝
+```
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boyagodac" alt="boyagodac" /></a> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+YOUR_NAME;Plasma+Physicist+%26+Software+Engineer;Building+at+the+edge+of+what's+possible.)](https://git.io/typing-svg)
 
-- 💻 I’m currently working on **a video game called Lenape Hoking**
-
-- My personal website: **callumboyagoda.com**
-
-- 📫 How to reach me **boyagodac@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/callum-boyagoda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="callum-boyagoda" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/callum boyagoda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="callum boyagoda" height="30" width="40" /></a>
+<p>
+  <a href="callumboyagoda.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:boyagodac@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/callum-boyagoda"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=boyagodac&show_icons=true&locale=en&layout=compact" alt="boyagodac" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=boyagodac&show_icons=true&locale=en" alt="boyagodac" /></p>
+---
+
+```python
+class YOUR_NAME:
+    def __init__(self):
+        self.pronouns        = "he/him"
+        self.location        = "New Jersey, USA"
+        self.education       = "B.A. Physics — Princeton University"
+        self.thesis          = "Reversed Field Configuration & Linear Polarisation in PFRC-2"
+        self.current_focus   = ["Unreal Engine", "Fullstack Development"]
+        self.languages       = ["Python", "C++", "Unreal Blueprints", "React", "Typescript"]
+        self.interests       = ["Music", "Animations", "Video Games"]
+
+    def __repr__(self):
+        return "A creative who wants to help creatives."
+```
+
+---
+
+<div align="center">
+
+## ⚡ GitHub at a Glance
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BoyagodaC&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoyagodaC&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 Contribution History
+
+> *Snake eats commits. The longer the snake, the more I've shipped.*
+
+![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
+
+<sub>Auto-generated via GitHub Actions — see workflow below ↓</sub>
+
+</div>
+
+---
+
+## 🔭 What I'm Building
+
+| Project | Stack | Status |
+|---------|-------|--------|
+| Lenape Hoking | Unreal Engine | 🚧 Active |
+| 7Phi | Swift | 🚧 Active |
+| the snow keeps falling | Unity | 🚧 Active |
+
+---
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<div align="center">
+<sub>Profile views: <img src="https://komarev.com/ghpvc/?username=BoyagodaC&color=00D9FF&style=flat-square&label="/> • Last updated: auto-refreshed</sub>
+</div>
