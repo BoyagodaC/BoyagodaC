@@ -39,9 +39,8 @@ class Callum:
 
 ## ⚡ GitHub at a Glance
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BoyagodaC&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoyagodaC&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8"/>
-
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BoyagodaC&theme=github_dark"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BoyagodaC&theme=github_dark"/>
 </div>
 
 <div align="center">
