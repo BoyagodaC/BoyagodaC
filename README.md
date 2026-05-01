@@ -6,7 +6,7 @@
 ╚═══════════════════════════════════════════════════════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+YOUR_NAME;Plasma+Physicist+%26+Software+Engineer;Building+at+the+edge+of+what's+possible.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Callum!;Physicist,+Game+Designer,+%26+Software+Engineer;Trying+to+make+the+world+a+better+place.)](https://git.io/typing-svg)
 
 <p>
   <a href="callumboyagoda.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
@@ -59,8 +59,6 @@ class YOUR_NAME:
 > *Snake eats commits. The longer the snake, the more I've shipped.*
 
 ![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
-
-<sub>Auto-generated via GitHub Actions — see workflow below ↓</sub>
 
 </div>
 
